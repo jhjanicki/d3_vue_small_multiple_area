@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+<img width="1436" alt="Screenshot 2023-11-21 at 12 18 23" src="https://github.com/jhjanicki/d3_vue_small_multiple_area/assets/6565011/a4a61581-1450-4b4f-84d7-4d30a81a077a">
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Description
+Small multiple area chart using D3 + Vue, showing Russian exports to various countries / regions before and after Russia's invasion of Ukraine
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Data source
+Brugel
